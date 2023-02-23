@@ -17,11 +17,11 @@ Jonathan A. Myers, jamyers@wustl.edu, Washington University in St. Louis
 
 "scale": Spatial scale (square meters) at which all metrics were calculated (n = 11 / per site)
 
-"aPIE": tree alpha diversity calculated at each spatial scale
+"aPIE": mean tree alpha diversity calculated at each spatial scale. Site means were calculated by averaging across all subsamples for a given spatial scale (Fig 2.) 
 
-"bPIE": tree beta diversity calculated at each spatial scale
+"bPIE": mean tree beta diversity calculated at each spatial scale. Site means were calculated by averaging across all subsamples for a given spatial scale (Fig 2.)
 
-"gPIE": tree gamma diversity calculated at each spatial scale
+"gPIE": mean tree gamma diversity calculated at each spatial scale. Site means were calculated by averaging across all subsamples for a given spatial scale (Fig 2.)
 
 "biomass": total biomass (kg) of all trees with stem diameter > 2.5 cm at each spatial scale
 
